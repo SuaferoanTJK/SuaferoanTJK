@@ -1,15 +1,14 @@
-# 👋 Hola, soy Andrés Suárez 👋
-Soy estudiante de último semestre en Ingeniería en Multimedia.
-Desde pequeño me ha gustado el desarrollo web, sobre todo el front por su capacidad de volver líneas de código en algo visible y con el cual el cliente/usuario pueda interactuar.
+# 👋 Hi, I am Andrés Suárez 👋
+I am a Multimedia Engineering Student in my last semester.
+Since I was little I have liked web development, especially the front end for its ability to turn lines of code into something visible and with which the client / user can interact. 
 
-## 📫  Habilidades. 
+## 📫  Abilities. 
 - HTML
 - CSS
 - JavaScript
 - Boostrap
-- MySQL
 - SASS
 - GULP
 
-## 🔭 Estoy aprendiendo
+## 🔭 I am learning
 - React
