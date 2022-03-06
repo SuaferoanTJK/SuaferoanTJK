@@ -11,4 +11,5 @@ Since I was little I have liked web development, especially the front end for it
 - GULP
 
 ## 🔭 I am learning
-- React
+- React / Redux
+- Unit testing
