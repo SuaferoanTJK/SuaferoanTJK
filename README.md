@@ -9,7 +9,9 @@ Since I was little I have liked web development, especially the front end for it
 - Boostrap
 - SASS
 - GULP
+- React
+- Redux / Context
 
 ## 🔭 I am learning
-- React / Redux
 - Unit testing
+- React Native
