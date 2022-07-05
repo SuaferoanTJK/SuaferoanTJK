@@ -10,7 +10,6 @@ Since I was little I have liked web development, especially the front end for it
 - SASS
 - GULP
 - React
-- Redux / Context
 
 ## 🔭 I am learning
 - Unit testing
