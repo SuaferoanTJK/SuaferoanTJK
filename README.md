@@ -4,14 +4,12 @@ Since I was little I have liked web development, especially the front end for it
 
 ## 📫  Abilities. 
 - HTML
-- CSS
+- CSS / SASS
 - JavaScript
-- Boostrap
-- SASS
-- GULP
 - React
+- React Native
 
 ## 🔭 I am learning
 - Unit testing
-- React Native
+- TypeScript
 - Angular
