@@ -8,8 +8,8 @@ Since I was little I have liked web development, especially the front end for it
 - JavaScript
 - React
 - React Native
+- Unit testing (Jest)
 
 ## 🔭 I am learning
-- Unit testing
-- TypeScript
 - Angular
+- Vue
