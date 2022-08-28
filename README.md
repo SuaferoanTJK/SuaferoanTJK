@@ -9,7 +9,9 @@ Since I was little I have liked web development, especially the front end for it
 - React
 - React Native
 - Unit testing (Jest)
-
-## 🔭 I am learning
 - Angular
 - Vue
+
+## 🔭 I am learning
+- Docker
+- Webpack
