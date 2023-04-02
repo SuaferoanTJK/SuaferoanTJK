@@ -15,4 +15,4 @@ Since I was little I have liked development, especially the front end for its ab
  
 ## 🔭 I am learning
 - TypeScript
-- Next (React Framework)
+- Python / Django
